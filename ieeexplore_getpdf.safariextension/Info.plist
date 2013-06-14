@@ -5,17 +5,17 @@
 	<key>Author</key>
 	<string>Stephen Larew</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>8536.30.1</string>
 	<key>CFBundleDisplayName</key>
 	<string>IEEE Xplore getPDF</string>
 	<key>CFBundleIdentifier</key>
-	<string>edu.purdue.sglarew.safari.ieeexplore-getpdf</string>
+	<string>net.slarew.safari.ieeexplore-getpdf</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.9</string>
+	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>0.9.0</string>
+	<string>1.0.0</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -48,8 +48,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://engineering.purdue.edu/~sglarew/ieeexplore_getpdf/update.xml</string>
+	<string>https://engineering.purdue.edu/~sglarew/projects/ieeexplore-getpdf/update.xml</string>
 	<key>Website</key>
-	<string>https://engineering.purdue.edu/~sglarew/ieeexplore_getpdf</string>
+	<string>https://engineering.purdue.edu/~sglarew/projects/ieeexplore-getpdf</string>
 </dict>
 </plist>
