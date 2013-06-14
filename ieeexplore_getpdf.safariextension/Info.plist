@@ -48,7 +48,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://engineering.purdue.edu/~sglarew/projects/ieeexplore-getpdf/update.xml</string>
+	<string>https://engineering.purdue.edu/~sglarew/projects/ieeexplore-getpdf/update.plist</string>
 	<key>Website</key>
 	<string>https://engineering.purdue.edu/~sglarew/projects/ieeexplore-getpdf</string>
 </dict>
